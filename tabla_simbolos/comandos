@@ -1,5 +1,5 @@
 Para la tabla de simbolos del archivo main2.c, se ejecuto el comando -> readelf -s main2.o > main2.md
 Para la tabla de simbolos del archivo addvec.c, se ejecuto el comando -> readelf -s addvec.o > addvec.md
-Para la tabla de simbolos del archivo mult.c, se ejecuto el comando -> readelf -s multvec.o > multvec.md
+Para la tabla de simbolos del archivo multvec.c, se ejecuto el comando -> readelf -s multvec.o > multvec.md
 
 
